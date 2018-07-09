@@ -1,6 +1,6 @@
 {% set name = "joommf" %}
-{% set version = "0.8.3" %}
-{% set sha256 = "d1f31753d829d172b68a8720416f0e413c741b34b69235a8e324056db3264cf9" %}
+{% set version = "0.8.4" %}
+{% set sha256 = "58b9f18768b2d4a9d51a17803f523ce94c11cc64dc7090b75a2cf37a5f91240d" %}
 
 package:
   name: {{ name|lower }}
